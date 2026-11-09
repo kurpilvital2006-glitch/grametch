@@ -1,0 +1,8 @@
+.claude/
+__pycache__/
+tools/cache/items_*.json
+tools/cache/partial_*
+tools/cache/spy_*.json
+tools/cache/tags_*.json
+tools/cache/good_ids.json
+tools/cache/need_translation.json
